@@ -4,7 +4,7 @@
     "description": "2fa demo app",
     "main": "app.js",
     "author": "Daniel Gray <me@danielgray.email> (https://danielgray.me)",
-    "license": "ISC",
+    "license": "MIT",
     "dependencies": {
         "2fa": "^0.1.2",
         "body-parser": "^1.18.2",
